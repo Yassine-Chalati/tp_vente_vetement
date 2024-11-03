@@ -49,3 +49,5 @@ service cloud.firestore {
 
 ``` 
 
+## Architecuture utilise
+Design pattern MVVM

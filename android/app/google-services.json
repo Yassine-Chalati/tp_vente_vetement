@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "142558747235",
+    "project_id": "ventevitement-5d6bc",
+    "storage_bucket": "ventevitement-5d6bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142558747235:android:db0a81c226f2292e17f656",
+        "android_client_info": {
+          "package_name": "com.example.vente_vitment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGNfXQvjbZpbk8Vb1az9e9l4RlAozf1Ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142558747235:android:12ec1502d0361e4517f656",
+        "android_client_info": {
+          "package_name": "com.vent_vitement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGNfXQvjbZpbk8Vb1az9e9l4RlAozf1Ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -2,10 +2,10 @@
 
 ## usename/password
 
-login: user1@email.com
+login: user1@email.com<br>
 password: password1
 
-login: user2@email.com
+login: user2@email.com<br>
 password: password2
 
 ## regle utilise en firebase 
@@ -51,3 +51,10 @@ service cloud.firestore {
 
 ## Architecuture utilise
 Design pattern MVVM
+![Desing Pattern MVVM](images/mvvm.png)
+
+
+## Firebase
+![Authentication Firebase](images/firebaseAuth.png)
+![Firestore Firebase](images/firebaseFireStore.png)
+
